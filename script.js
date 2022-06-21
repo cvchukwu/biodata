@@ -1,10 +1,7 @@
-var firstName = "Victor";
-var lastName = "Chukwu";
+var fullName = "Victor Chukwu";
 var height = "1.95 metres";
 var country = "Nigeria";
 
-myName = firstName + " " + lastName;
-
-document.write("Name: " + " " + myName +"." + "<br/>");
+document.write("Name: " + " " + fullName +"." + "<br/>");
 document.write("Height: " + " " + height +"." + "<br/>");
 document.write("country: " + " " + country +".");
