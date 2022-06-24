@@ -9,8 +9,8 @@ Write a javascript code that prints out your name, height, and country on the sc
 
 ### Links
 
-- Solution URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
-- Live Site URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
+- Solution URL: https://github.com/cvchukwu/biodata/tree/main
+- Live Site URL: https://cvchukwu.github.io/biodata/
 
 ## My process
 
